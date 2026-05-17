@@ -40,13 +40,13 @@ I am Wesly C. Quilendireno an aspiring Network Administrator and Database Manage
 **Tools**
 - Lucidchart
 - Eclipse
-- HTML
-- CSS
-- JavaScript
+- Pycharm
 - IntelliJ
+- Visual Studio
 - Visual Studio Code
-- PyCharm
-- Git
+- Cisco Packet Tracer
+- Figma
+- Adobe Xd
 - GitHub
 
 ---
