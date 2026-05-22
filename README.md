@@ -30,6 +30,7 @@ I am Wesly C. Quilendireno an aspiring Network Administrator and Database Manage
 - Python
 - C++
 - C#
+- php
 
 **Databases**
 - IBM DB2 Cloud
@@ -42,6 +43,7 @@ I am Wesly C. Quilendireno an aspiring Network Administrator and Database Manage
 - Eclipse
 - Pycharm
 - IntelliJ
+- Antigravity
 - Visual Studio
 - Visual Studio Code
 - Cisco Packet Tracer
